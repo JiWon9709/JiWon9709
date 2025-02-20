@@ -28,6 +28,8 @@
   <div align= "center"> <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jiwon9709&show_icons=true&locale=en&layout=compact" alt="jiwon9709" /></p> </div> 
   <div align= "center">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧑‍💻 Contact me </h2>
-    <div align= "center"> <a href=jennyou9709@naver.com> <img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white&link=jennyou9709@naver.com"> </a>
+    <div align= "center"> <a href=jennyou9709@naver.com> 
+        <img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white"> 
+        </a>
     <a href=mailto:jennyou97@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:jennyou97@gmail.com"> </a>
     </div>
