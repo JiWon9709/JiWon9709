@@ -26,6 +26,7 @@
     </div>
     <br>
   <div align= "center"> <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jiwon9709&show_icons=true&locale=en&layout=compact" alt="jiwon9709" /></p> </div> 
+  <!--
   <div align= "center">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧑‍💻 Contact me </h2>
     <div align= "center"> <a href=jennyou9709@naver.com> 
