@@ -2,7 +2,7 @@
     <img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&height=120&text=Jiwon's%20Github&animation=&fontColor=ffffff&fontSize=50" />
     </div>
     <div>
-I'am
+<h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">🧑🏻 I'am</h2>
         
 - 컴퓨터공학을 전공하며 **AI 기반 웹 애플리케이션 및 백엔드 시스템 개발**을 경험했습니다.
         
@@ -10,8 +10,8 @@ I'am
 
   
 - **새로운 기술을 빠르게 습득**하고 **문제 해결 능력이 뛰어나며**, 협업을 통해 효율적인 개발을 추구합니다. </div>
+<h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> 
     <div align= "center">
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> 
     <div style="margin: 0 auto; text-align: center;" align= "center">
         <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
         <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
@@ -22,12 +22,12 @@ I'am
         <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
           <br/>
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
-          <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white"> <br>
+          <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white"> <br> </div> </div>
         <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 📖 Studying</h2>
+        <div align= "center">
         <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
         <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white">
-          </div>
-    </div>
+        </div>
     <br>
   <div align= "center"> <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jiwon9709&show_icons=true&locale=en&layout=compact" alt="jiwon9709" /></p> </div> 
   <!--
