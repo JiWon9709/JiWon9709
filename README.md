@@ -25,7 +25,6 @@ KT AIVLE School 6기 AI 개발자 track 수료
         <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 📖 Studying</h2>
         <div align= "center">
         <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
-        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white">
         </div>
     <br>
   <div align= "center"> <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jiwon9709&show_icons=true&locale=en&layout=compact" alt="jiwon9709" /></p> </div> 
