@@ -2,12 +2,13 @@
     <img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&height=120&text=Jiwon's%20Github&animation=&fontColor=ffffff&fontSize=50" />
     </div>
     
-<h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">🧑🏻 I'am</h2>
+<!--<h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">🧑🏻 I'am</h2>
 <div align= "center">
 덕성여대 컴퓨터공학 학사 졸업
         
 KT AIVLE School 6기 AI 개발자 track 수료
 </div>
+!-->
 <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> 
     <div align= "center">
     <div style="margin: 0 auto; text-align: center;" align= "center">
