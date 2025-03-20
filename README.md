@@ -23,7 +23,7 @@ KT AIVLE School 6기 AI 개발자 track 수료
           <br/>
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
           <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white"> <br> </div> </div>
-        <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 📖 Studying</h2>
+        <!-- <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 📖 Studying</h2>
         <div align= "center">
         <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
         </div>
